@@ -3,7 +3,7 @@
 import telebot
 import json
 
-bot = telebot.TeleBot('7947379155:AAGKNtj5RG9uk98BHcdWCTUyU41Ftrbi13Y')
+bot = telebot.TeleBot('')
 
 PROMOCODES = {
     "WELCOMETOBOT": {"coins": 55, "crystals": 5, "limit": None},
